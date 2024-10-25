@@ -1,6 +1,5 @@
-<form action="action_page.php">
-  <div class="container">
-    <h1>Saidemy Ex Students Registration!</h1>
+div class="container">
+    <h1>Saidemy Students Registration!</h1>
     <p>Please fill in this form</p>
     <hr>
     <br>
@@ -29,3 +28,4 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 </form>
+
