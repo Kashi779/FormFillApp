@@ -1,5 +1,5 @@
 div class="container">
-    <h1>Saidemy Students Registration!</h1>
+    <h1>Saidemy Student Registration!</h1>
     <p>Please fill in this form</p>
     <hr>
     <br>
