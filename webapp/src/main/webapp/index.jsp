@@ -12,7 +12,7 @@ div class="container">
     <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
     <br>
 
-    <label for="pan"><b>pan</b></label>
+    <label for="PAN"><b>pan</b></label>
     <input type="text" placeholder="Enter pan" name="pan" id="pan" required>
     <br>
 
