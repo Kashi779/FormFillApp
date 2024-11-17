@@ -16,6 +16,10 @@ div class="container">
     <input type="text" placeholder="Enter pan" name="pan" id="pan" required>
     <br>
 
+    <label for="DL"><b>DL</b></label>
+    <input type="text" placeholder="Enter DL" name="DL" id="DL" required>
+    <br>
+    
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
